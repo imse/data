@@ -1,7 +1,7 @@
 import datetime
 import sys
 import shutil
-
+print ("hola")
 if len(sys.argv) != 2:
     print("Error, You should specify an input file")
     exit(-1)
